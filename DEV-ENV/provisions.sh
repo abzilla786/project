@@ -12,7 +12,7 @@ sudo apt-get install python3-pip -y
 # install git
 sudo apt-get install git -y
 
-
+sudo mkdir /home/vagrant/Downloads
 # sudo apt-get install python-software-properties -y
 
 sudo pip3 install -r /home/ubuntu/starter-code/requirements.txt
